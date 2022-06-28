@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chertkovalex
-- 👀 I’m interested in Javascript (React, Gatsby, Strapi, Node), React Native, E2E Tests (Cypress), DevOps and more cutting-edge tech...
+- 👀 I’m interested in Javascript, Typescript (React, Gatsby, Strapi, Node, Mobx-State-Tree), React Native, E2E Tests (Cypress), DevOps and more cutting-edge tech...
 - 🌱 I’m currently learning Azure DevOps
 - 💞️ I’m looking to collaborate on creating Gatsby and Strapi plugins, develop a platform for online courses
 - 📫 How to reach me: message
